@@ -42,7 +42,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
-  margin: 73px auto 0;
+  margin: 36px auto 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -50,7 +50,7 @@
   font-size: 1.875rem;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   font-weight: 400;
-  margin: 29px auto 0 474px;
+  margin: 66px auto 0 474px;
   padding: 0;
 }
 
