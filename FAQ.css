@@ -451,11 +451,6 @@
 
 .u-section-3 .u-text-1 {
   font-size: 3.75rem;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
   margin: 26px auto 0;
 }
 
@@ -482,6 +477,16 @@
 
 .u-section-3 .u-icon-4 {
   height: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
 }
 
 @media (max-width: 767px) {
